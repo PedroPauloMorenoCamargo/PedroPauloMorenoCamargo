@@ -8,21 +8,14 @@
 <p> HI! I'm Pedro Paulo Moreno Camargo, a computer engineering student at INSPER. I've always been fascinated by technology, in my opinion the unlimited possibilities of what we can create by programming is what makes it so much fun  </p>
 <p>I started programming at 2018, since then I've come into contact with many computational languages and frameworks, in addition to that I've developed many projects which only increased my interest in the programming area.  </p>
 
-<h3>Languages and Frameworks: <h3> 
+<h3>Languages and Tools: <h3> 
    <img align="left" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" height="50"/>
-   <img align="left" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" height="50"/>
-   <img align="left" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" height="50"/>
-   <img align="left" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" height="50"/>
-   <img align="left" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" height="50"/>
-   <img align="left" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" height="50"/>
-   <img align="left" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" height="50"/><br/><br/><br/>
-   <img align="left" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" height="50"/>
-   <img align="left" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" height="50"/>
-   <img align="left" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" height="50"/>
-   <img align="left" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" height="50"/>
-   <img align="left" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" height="50"/>
-   <img align="left" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" height="50"/>
-   <img align="left" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" height="50"/>
-
+   <img align="left" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" height="50"/>
+   <img align="left" src="https://cdn-icons-png.flaticon.com/512/919/919826.png" height="50"/>
+   <img align="left" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" height="50"/><br/><br/><br/>
+   <img align="left" src="https://cdn-icons-png.flaticon.com/512/1183/1183672.png" height="50"/>
+   <img align="left" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" height="50"/>
+   <img align="left" src="https://cdn-icons-png.flaticon.com/512/1602/1602309.png" height="50"/>
+   <img align="left" src="https://cdn-icons-png.flaticon.com/512/1240/1240970.png" height="50"/>
 
 
