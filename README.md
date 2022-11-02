@@ -1,4 +1,4 @@
-<div align = "center" style="font-size:4em;" >👋 Hello! I'm Pedro Paulo 👋</div>
+### 👋 Hello! I'm Pedro Paulo 👋
 <h1></h1>
 
 ### Connect with me:
