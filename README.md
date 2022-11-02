@@ -24,6 +24,8 @@
 <h1>My Stats</h1>
 
 <img src="https://github-readme-stats.vercel.app/api?username=PedroPauloMorenoCamargo&show_icons=true&theme=tokyonight" width="600">
-
+</br>
+</br>
 
 ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+
