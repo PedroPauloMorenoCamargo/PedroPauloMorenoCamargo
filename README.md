@@ -6,7 +6,9 @@
 </br>
 </br>
 
-<p> HI! I'm Pedro Paulo Moreno Camargo, a computer engineering student. I've always been fascinated by technology, in my opinion the unlimited possibilities of what we can create by programming is what makes it so much fun  </p>
+<p> HI! I'm Pedro Paulo Moreno Camargo, a computer engineering student at INSPER. I've always been fascinated by technology, in my opinion the unlimited possibilities of what we can create by programming is what makes it so much fun  </p>
+</br>
+<p>I started programming at 2018, since then I've come into contact with many computational languages and frameworks and developed many projects which only increased my interest in the programming area. I hope to gain even more insight in the computational area which amuses me.  </p>
 
 
 
