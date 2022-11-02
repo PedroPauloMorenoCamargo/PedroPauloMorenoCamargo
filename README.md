@@ -9,14 +9,13 @@
 <p>I started programming at 2018, since then I've come into contact with many computational languages and frameworks, in addition to that I've developed many projects which only increased my interest in the programming area.  </p>
 
 <h3>Languages and Frameworks: <h3> 
-   <img align="left" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" height="50"/>
+   <img align="left" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" height="50"/>
    <img align="left" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" height="50"/>
    <img align="left" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" height="50"/>
    <img align="left" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" height="50"/>
    <img align="left" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" height="50"/>
    <img align="left" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" height="50"/>
    <img align="left" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" height="50"/><br/><br/><br/>
-   <img align="left" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" height="50"/>
    <img align="left" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" height="50"/>
    <img align="left" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" height="50"/>
    <img align="left" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" height="50"/>
