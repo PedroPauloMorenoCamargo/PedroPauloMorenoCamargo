@@ -7,7 +7,7 @@
 
 <p> HI! I'm Pedro Paulo Moreno Camargo, a computer engineering student at INSPER. I've always been fascinated by technology, in my opinion the unlimited possibilities of what we can create by programming is what makes it so much fun  </p>
 <p>I started programming at 2018, since then I've come into contact with many computational languages and frameworks, in addition to that I've developed many projects which only increased my interest in the programming area.  </p>
-<img align="right" src="https://media.tenor.com/YUzRkMOL-3EAAAAC/programming-computer-frog.gif" height="250"/>
+<img align="right" src="https://media.tenor.com/YUzRkMOL-3EAAAAC/programming-computer-frog.gif" height="200" width = "200"/>
 
 <h3>Languages and Tools: <h3> 
    <img align="left" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" height="50"/>
