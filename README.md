@@ -1,4 +1,4 @@
-###                                                             👋 Hello! I'm Pedro Paulo 👋
+<div align = "center">👋 Hello! I'm Pedro Paulo 👋</div>
 <h1></h1>
 
 ### Connect with me:
