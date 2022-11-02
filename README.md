@@ -1,11 +1,6 @@
 ### Connect with me: 👋
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/pedro-paulo-moreno-camargo-93945a177/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  
-</div>
+<a href=”https://www.linkedin.com/in/pedro-paulo-moreno-camargo-93945a177/"><img align=”left” src=”https://raw.githubusercontent.com/PedroPauloMorenoCamargo/PedroPauloMorenoCamargo/main/imgs/linkedin.png" alt=”icon | LinkedIn” width=”21px”/></a>
 
 <!--
 **PedroPauloMorenoCamargo/PedroPauloMorenoCamargo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
