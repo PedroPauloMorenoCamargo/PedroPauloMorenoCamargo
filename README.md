@@ -23,5 +23,5 @@
  
 <h1>My Stats</h1>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPauloMorenoCamargo&langs_count=8)](https://github.com/PedroPauloMorenoCamargo)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPauloMorenoCamargo&langs_count=20)](https://github.com/PedroPauloMorenoCamargo)
 
