@@ -24,6 +24,6 @@
 <h1>My Stats</h1>
 
 <img src="https://github-readme-stats.vercel.app/api?username=PedroPauloMorenoCamargo&show_icons=true&theme=tokyonight" width="600">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=yushi1007)](https://github.com/yushi1007)
 
 
