@@ -25,3 +25,5 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=PedroPauloMorenoCamargo&show_icons=true&theme=tokyonight" width="600">
 
+
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
