@@ -4,6 +4,7 @@
 <a href="https://www.instagram.com/pedro_camargo95/" target="blank"><img align="left" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" height="50" /></a>
 <a href="https://www.instagram.com/pedro_camargo95/" target="blank"><img align="left" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" height="50" /></a>
 </br>
+</br>
 
 <p> HI! I'm Pedro Paulo Moreno Camargo, a computer engineering student. I've always been fascinated by technology, in my opinion the unlimited possibilities of what we can create by programming is what makes it so much fun  </p>
 
