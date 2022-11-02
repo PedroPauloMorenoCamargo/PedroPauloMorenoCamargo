@@ -27,5 +27,7 @@
 </br>
 </br>
 
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+<h1>Contribution Map</h1>
+
+![snake gif](https://github.com/PedroPauloMorenoCamargo/PedroPauloMorenoCamargo/blob/output/github-contribution-grid-snake.gif)
 
