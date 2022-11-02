@@ -23,7 +23,5 @@
  
 <h1>My Stats</h1>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPauloMorenoCamargo)](https://github.com/PedroPauloMorenoCamargo/github-readme-stats)
-
 <img src="https://github-readme-stats.vercel.app/api?username=PedroPauloMorenoCamargo&show_icons=true&theme=tokyonight" width="600">
 
