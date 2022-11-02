@@ -14,7 +14,7 @@ I started programming in 2018, and since then I've come into contact with many c
 <img align = "left" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" height="50"/>
 <img align = "left" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" height="50"/>
 <img align = "left" src="https://cdn-icons-png.flaticon.com/512/919/919826.png" height="50"/>
-<img align = "left" src="https://img2.gratispng.com/20180711/rtc/kisspng-django-web-development-web-framework-python-softwa-django-5b45d913f29027.4888902515313042119936.jpg" height="50"/>
+<img align = "left" src="https://img2.gratispng.com/20180711/rtc/kisspng-django-web-development-web-framework-python-softwa-django-5b45d913f29027.4888902515313042119936.jpg" height="50" width = '50'/>
 <img align = "left"src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" height="50"/><br/><br/><br/>
 <img  align = "left" src="https://cdn-icons-png.flaticon.com/512/1183/1183672.png" height="50"/>
 <img  align = "left" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" height="50"/>
