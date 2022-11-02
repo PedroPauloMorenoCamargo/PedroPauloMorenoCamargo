@@ -11,7 +11,7 @@
 
 <h3>Languages and Tools: <h3> 
    <div align = "right">
-   <img align="left" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" height="50"/>
+   <img  src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" height="50"/>
    <img align="left" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" height="50"/>
    <img align="left" src="https://cdn-icons-png.flaticon.com/512/919/919826.png" height="50"/>
    <img align="left" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" height="50"/><br/><br/><br/>
