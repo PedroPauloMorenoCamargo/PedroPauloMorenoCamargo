@@ -16,6 +16,6 @@
    <img align="left" src="https://cdn-icons-png.flaticon.com/512/1183/1183672.png" height="50"/>
    <img align="left" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" height="50"/>
    <img align="left" src="https://cdn-icons-png.flaticon.com/512/1602/1602309.png" height="50"/>
-   <img align="left" src="https://cdn-icons-png.flaticon.com/512/1240/1240970.png" height="50"/>
+   <img align="left" src="https://cdn-icons-png.flaticon.com/512/4494/4494748.png" height="50"/>
 
 
