@@ -9,7 +9,7 @@
 <p>I started programming at 2018, since then I've come into contact with many computational languages and frameworks, in addition to that I've developed many projects which only increased my interest in the programming area.  </p>
 
 <h3>Languages and Tools: <h3> 
-   <img align="right" src="https://media.tenor.com/YUzRkMOL-3EAAAAC/programming-computer-frog.gif" height="200"/>
+   <img align="right" src="https://media.tenor.com/YUzRkMOL-3EAAAAC/programming-computer-frog.gif" height="150"/>
    <img align="left" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" height="50"/>
    <img align="left" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" height="50"/>
    <img align="left" src="https://cdn-icons-png.flaticon.com/512/919/919826.png" height="50"/>
