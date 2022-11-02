@@ -1,22 +1,23 @@
-### 👋 Hello! I'm Pedro Paulo 👋
+<p align="center">
+  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/75753187/123350185-74ce0900-d528-11eb-848d-d92955dbb944.png" alt="my banner"></a>
+</p>
 
+<h3 align="center">
+Hi there, I'm <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">Yu</a> 👋
+</h3>
 
-  ### Connect with me:
-<a href="https://www.linkedin.com/in/pedro-paulo-moreno-camargo-93945a177?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B46mJblmxTy6S7qZ3ydNs4Q%3D%3D" target="blank"><img align="left" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" height="50"/></a>
-<a href="https://www.instagram.com/pedro_camargo95/" target="blank"><img align="left" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" height="50" /></a>
-<a href="https://www.instagram.com/pedro_camargo95/" target="blank"><img align="left" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" height="50" /></a>
-<img align="right" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="250" width = "350" />
-<!--
-**PedroPauloMorenoCamargo/PedroPauloMorenoCamargo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">
+I'm a Full-Stack Web Developer 💻, Photographer 📸, and Designer 🎨!
+</h2> 
 
-Here are some ideas to get you started:
+I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤝 Connect with me:
+
+<a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
+<a href="https://instagram.com/yushi.95"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
+<a href="https://yushi95.medium.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
+</br>
+- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+
+## 🔭 I'm currently working on
