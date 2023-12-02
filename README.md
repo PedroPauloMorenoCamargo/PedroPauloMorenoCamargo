@@ -24,14 +24,5 @@ I started programming in 2018, and since then I've come into contact with many c
  
 </br>
 </br>
- 
-<h1>My Stats</h1>
 
-<img src="https://github-readme-stats.vercel.app/api?username=PedroPauloMorenoCamargo&show_icons=true&theme=tokyonight" width="600">
-</br>
-</br>
-
-<h1>Contribution Map</h1>
-
-![Snake animation](https://github.com/PedroPauloMorenoCamargo/PedroPauloMorenoCamargo/blob/output/github-contribution-grid-snake.svg)
 
