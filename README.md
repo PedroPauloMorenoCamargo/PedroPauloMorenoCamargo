@@ -5,10 +5,10 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/ppmc" target="_blank">
+  <a href="https://www.linkedin.com/in/ppmc">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
   </a>
-  <a href="https://perubr12.itch.io/" target="_blank">
+  <a href="https://perubr12.itch.io/" >
     <img src="https://img.shields.io/static/v1?message=itch.io&logo=itch-io&label=&color=fa5c5c&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="itch.io logo" />
   </a>
 </div>
