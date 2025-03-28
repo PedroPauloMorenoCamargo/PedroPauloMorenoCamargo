@@ -89,7 +89,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
   
   <!-- AWS -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS" />
+  <img src="https://pt.m.wikipedia.org/wiki/Ficheiro:Amazon_Web_Services_Logo.svg" height="40" alt="AWS" />
 
   <!-- FPGA (no standard icon, using shield badge) -->
   <img src="https://img.shields.io/badge/FPGA-%234B0082?style=for-the-badge&logo=circuitverse&logoColor=white" height="25" alt="FPGA" />
