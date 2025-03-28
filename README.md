@@ -79,12 +79,49 @@
 ### 🛠️ Tools
 
 <p align="left">
+  <!-- Git -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode" />
+  
+  <!-- Docker -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
-  <!-- Add more tools as needed -->
+  
+  <!-- Linux -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
+  
+  <!-- AWS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS" />
+
+  <!-- FPGA (no standard icon, using shield badge) -->
+  <img src="https://img.shields.io/badge/FPGA-%234B0082?style=for-the-badge&logo=circuitverse&logoColor=white" height="25" alt="FPGA" />
+
+  <!-- Unity -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="Unity" />
+  
+  <!-- Unreal Engine -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="40" alt="Unreal Engine" />
+
+  <!-- MPI (no official icon, using badge) -->
+  <img src="https://img.shields.io/badge/MPI-%23008080?style=for-the-badge&logo=openmpi&logoColor=white" height="25" alt="MPI" />
+  
+  <!-- PostgreSQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
+  
+  <!-- MySQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+
+  <!-- Quartus (badge fallback) -->
+  <img src="https://img.shields.io/badge/Quartus-%23006699?style=for-the-badge&logo=intel&logoColor=white" height="25" alt="Quartus" />
+  
+  <!-- Dune (for OCaml, badge fallback) -->
+  <img src="https://img.shields.io/badge/Dune-%23EC6813?style=for-the-badge&logo=ocaml&logoColor=white" height="25" alt="Dune" />
+
+  <!-- React -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  
+  <!-- Django -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django" />
 </p>
+
 
 
 
